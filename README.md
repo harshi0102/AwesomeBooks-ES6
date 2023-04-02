@@ -25,13 +25,14 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Awesome Books ES6 Project <a name="about-project"></a>
+# [Live Preview](https://harshi0102.github.io/AwesomeBooks-ES6/)
 
 <div align="center">
   <img src="desktopversion.jpeg" alt="project sample" width="650"  height="auto" />
   <br/>
   <img src="desktop2.jpeg" alt="project sample" width="650"  height="auto" />
   <br/>
-  
+   
   <h3><b>Awesome Books ES6 Project</b></h3>
 
 </div>
